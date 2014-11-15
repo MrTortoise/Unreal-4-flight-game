@@ -1,4 +1,10 @@
 FlightGame/Saved/Backup/
-FlightGame/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Localization/ICU/icudt53l/region/zh_MO.res
-FlightGame/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Localization/ICU/icudt53l/region/zh_Hant_MO.res
-FlightGame/Saved/
+FlightGame/Saved/StagedBuilds/
+FlightGame/Saved/Autosaves/
+FlightGame/Saved/Cooked/
+FlightGame/Logs/Logs/
+FlightGame/Build/
+FlightGame/Intermediate/
+
+FlightGame/Saved/Logs/FlightGame-backup-2014.11.14-15.11.25.log
+FlightGame/Saved/Logs/
